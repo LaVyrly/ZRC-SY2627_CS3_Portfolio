@@ -1,4 +1,6 @@
 # ZRC-SY2627_CS3_Portfolio
+
+#QUARTER 1
 [Link to ctskillsPotassiumAnganganLuceroRoda](./q1/ctskillsPotassiumAnganganLuceroRoda.md)
 
 [Link to zodiacPotassiumLUCERO](./q1/zodiacPotassiumLUCERO.md)
@@ -12,3 +14,6 @@
 [Link to mappingPotassiumLUCERO.drawio.png](./q1/mappingPotassiumLUCERO.drawio.png)
 
 [Link to main.py](./q1/Sa-1/main.py)
+
+#QUARTER 2
+[Link to LUCERO.Encapsulation](./q2/LUCERO.Encapsulation)
