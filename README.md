@@ -18,4 +18,4 @@
 
 #QUARTER 2
 
-[Link to LUCERO.Encapsulation](./q2/LUCERO.Encapsulation)
+[Link to LUCERO_Encapsulation](./q2/LUCERO_Encapsulation)
