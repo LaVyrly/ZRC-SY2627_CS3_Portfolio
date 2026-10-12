@@ -1,21 +1,29 @@
 # ZRC-SY2627_CS3_Portfolio
 
-#QUARTER 1
+QUARTER 1
 
-[Link to ctskillsPotassiumAnganganLuceroRoda](./q1/ctskillsPotassiumAnganganLuceroRoda.md)
+* ctskillsPotassiumAnganganLuceroRoda
+  [Link to ctskillsPotassiumAnganganLuceroRoda](./q1/ctskillsPotassiumAnganganLuceroRoda.md)
 
-[Link to zodiacPotassiumLUCERO](./q1/zodiacPotassiumLUCERO.md)
+* zodiacPotassiumLUCERO
+  [Link to zodiacPotassiumLUCERO](./q1/zodiacPotassiumLUCERO.md)
 
-[Link to TheRPGHeroLUCERO](./q1/TheRPGHeroLUCERO.py)
+* TheRPGHeroLUCERO
+  [Link to TheRPGHeroLUCERO](./q1/TheRPGHeroLUCERO.py)
 
-[Link to TheRPGHeroClassDiagram](./q1/TheRPGHeroClassDiagram.png)
+* TheRPGHeroClassDiagram
+  [Link to TheRPGHeroClassDiagram](./q1/TheRPGHeroClassDiagram.png)
 
-[Link to mappingPotassiumLUCERO.py](./q1/mappingPotassiumLUCERO.py)
+* mappingPotassiumLUCERO.py
+  [Link to mappingPotassiumLUCERO.py](./q1/mappingPotassiumLUCERO.py)
 
-[Link to mappingPotassiumLUCERO.drawio.png](./q1/mappingPotassiumLUCERO.drawio.png)
+* mappingPotassiumLUCERO.drawio.png
+  [Link to mappingPotassiumLUCERO.drawio.png](./q1/mappingPotassiumLUCERO.drawio.png)
 
-[Link to main.py](./q1/Sa-1/main.py)
+* main.py
+  [Link to main.py](./q1/Sa-1/main.py)
 
-#QUARTER 2
+QUARTER 2
 
-[Link to LUCERO_Encapsulation](./q2/LUCERO_Encapsulation)
+* LUCERO_Encapsulation
+ [Link to LUCERO_Encapsulation](./q2/LUCERO_Encapsulation)
