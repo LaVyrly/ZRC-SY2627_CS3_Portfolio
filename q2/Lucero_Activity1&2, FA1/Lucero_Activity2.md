@@ -43,36 +43,49 @@ class Animal:
         print(f"[Rest Time] {self.__name} is fast asleep.")
 
 class Dog(Animal):
+
     def bark(self):
         print(f"{self.get_name()} barks: Woof! Woof!")
 
 
 class Cat(Animal):
+
     def meow(self):
         print(f"{self.get_name()} meows: Purr... Meow!")
 
 
 
 animal1 = Animal("Generic Animal")
-dog1 = Dog("Bruno")
-cat1 = Cat("Kitty")
-dog2 = Dog("Max")  # Added new object
 
+dog1 = Dog("Bruno")
+
+cat1 = Cat("Kitty")
+
+dog2 = Dog("Max")
 
 print("--- Initial Animal Behaviors ---")
+
 animal1.eat()
+
 animal1.sleep()
 
+
 dog1.eat()
+
 dog1.bark()
 
+
 cat1.sleep()
+
 cat1.meow()
 
 
 print("\n--- After Modifying Values and Adding New Object ---")
+
 dog2.set_name("Rocky")
+
 dog2.eat()
+
 dog2.bark()
 
   
@@ -83,6 +96,7 @@ dog2.bark()
 
     
 class Person:
+
     def __init__(self, name, age):
         self.__name = name
         self.__age = age
@@ -102,6 +116,7 @@ class Person:
 
 
 class Employee(Person):
+
     def __init__(self, name, age, job_title, salary):
         super().__init__(name, age)
         self.__job_title = job_title
@@ -122,6 +137,7 @@ class Employee(Person):
 
 
 class Manager(Employee):
+
     def __init__(self, name, age, job_title, salary, department):
         super().__init__(name, age, job_title, salary)
         self.__department = department
@@ -143,10 +159,13 @@ class Manager(Employee):
 
 
 manager1 = Manager("Alice", 35, "Project Manager", 80000, "IT")[cite: 8, 26]
+
 manager2 = Manager("David", 42, "Operations Manager", 95000, "Logistics")  # Added new object
 
 print("--- Initial Manager Profiles ---")
+
 manager1.display_info()
+
 manager2.display_info()
 
 
