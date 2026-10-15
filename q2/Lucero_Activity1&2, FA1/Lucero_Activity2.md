@@ -24,7 +24,6 @@ inheritance.
 
   * Example 1: Animal, Dog, and Cat Code Modifications
 
-
 class Animal:
     def __init__(self, name):
         self.__name = name  
