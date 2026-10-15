@@ -4,15 +4,18 @@ each class. Show the correct inheritance relationship between classes.
 
   * Single Inheritance
 
-    ![alt text](<Screenshot 2026-10-15 140146.png>)
+    <img width="355" height="613" alt="Screenshot 2026-10-15 140146" src="https://github.com/user-attachments/assets/1e8d60f4-2f61-4655-bd31-a40ff8361340" />
+
 
   * Multilevel Inheritance
 
-    ![alt text](<Screenshot 2026-10-15 141638.png>)
+    <img width="296" height="707" alt="Screenshot 2026-10-15 141638" src="https://github.com/user-attachments/assets/9eda1c66-97a2-4b98-9c16-4604ace07eba" />
+
 
   * Hierarchical Inheritance
 
-    ![alt text](<Screenshot 2026-10-15 142201.png>)
+    <img width="1038" height="679" alt="Screenshot 2026-10-15 142201" src="https://github.com/user-attachments/assets/e614e0d2-1027-4807-a41e-eac200a9078d" />
+
 
 2. Run the code examples in your IDE. Modify the code by adding getter and setter methods,
 changing object values, adding new objects, and adjusting method outputs. Observe how
