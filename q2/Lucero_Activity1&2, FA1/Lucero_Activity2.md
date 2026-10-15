@@ -40,8 +40,6 @@ class Animal:
     def sleep(self):
         print(f"[Rest Time] {self.__name} is fast asleep.")
 
-
-
 class Dog(Animal):
     def bark(self):
         print(f"{self.get_name()} barks: Woof! Woof!")
@@ -75,6 +73,7 @@ dog2.set_name("Rocky")
 dog2.eat()
 dog2.bark()
 
+  
   * Example 2: Person, Employee, and Manager Code Modifications
 
     
