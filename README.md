@@ -31,7 +31,7 @@
 
   [Link to main.py](./q1/Sa-1/main.py)
 
-<hr style="height: 120px; background-color: #333333; border: none;">
+<div style="background-color: #666666; height: 10px; border-radius: 5px; margin: 25px 0;"></div>
 
 ## QUARTER 2
 
