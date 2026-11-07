@@ -11,25 +11,25 @@
         could invoke it dynamically. 
 
 2.
-                      class Car:
-                          def move(self):
-                              print("The car drives on the road.")
-                        
-                        class Boat:
-                            def move(self):
-                                print("The boat sails on water.")
-                        
-                        class Drone:
-                            def move(self):
-                                print("The drone flies in the sky.")
-                        
-                        def start_trip(vehicle):
-                            vehicle.move()
-                        
-                        vehicles = [Car(), Boat(), Drone()]
-                        
-                        for v in vehicles:
-                            start_trip(v)
+        class Car:
+            def move(self):
+                print("The car drives on the road.")
+        
+        class Boat:
+            def move(self):
+                print("The boat sails on water.")
+        
+        class Drone:
+            def move(self):
+                print("The drone flies in the sky.")
+        
+        def start_trip(vehicle):
+            vehicle.move()
+        
+        vehicles = [Car(), Boat(), Drone()]
+        
+        for v in vehicles:
+            start_trip(v)
 
 
  3. How does the code demonstrate polymorphism?
