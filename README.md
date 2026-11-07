@@ -38,6 +38,10 @@
 
   [Link to LUCERO_Encapsulation](./q2/LUCERO_Encapsulation)
 
+* Lucero_Activity1&2, FA1
+
+  [Link to Lucero_Activity1&2, FA1](./q2/Lucero_Activity1&2,%20FA1)
+
 * LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1
 
   [Link to LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1](./q2/LUCERO_Formative%20Assessment%20No.%202%20and%20Learning%20Resource%201%20–%20Activity%201/)
@@ -45,7 +49,3 @@
 * LUCERO_Polymorphism
 
   [Link to LUCERO_Polymorphism](./q2/LUCERO_Polymorphism)
-
-* Lucero_Activity1&2, FA1
-
-  [Link to Lucero_Activity1&2, FA1](./q2/Lucero_Activity1&2,%20FA1)
