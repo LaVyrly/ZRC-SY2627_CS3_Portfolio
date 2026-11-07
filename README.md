@@ -39,5 +39,4 @@ QUARTER 2
 
 * LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1
 
-  [Link to LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1
-](./q2/LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1)
+  [Link to LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1](./q2/LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1)
