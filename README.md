@@ -1,6 +1,6 @@
 # ZRC-SY2627_CS3_Portfolio
 
-QUARTER 1
+# QUARTER 1
 
 * ctskillsPotassiumAnganganLuceroRoda
 
@@ -31,7 +31,7 @@ QUARTER 1
   [Link to main.py](./q1/Sa-1/main.py)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-QUARTER 2
+# QUARTER 2
 
 * LUCERO_Encapsulation
 
