@@ -1,0 +1,21 @@
+Activity 5: Reflection Questions
+
+1. What do all the methods (move(), special_move(), use()) 
+in the previous activities have in common?
+
+        --They all share identical method names across different 
+        independent classes, providing a consistent calling interface.   
+        
+2. How does this activity show polymorphism in a gaming context?
+
+        --It shows that different game elements (characters, items) 
+        can be grouped into lists and iterated through using a single 
+        unified function, letting Python execute the specific subclass 
+        method automatically.   
+        
+        
+3. Can you think of other examples where the same action behaves differently
+depending on the character or item?
+
+        --A .attack() method across different monster types, or an .equip() 
+        method across different weapon types.
