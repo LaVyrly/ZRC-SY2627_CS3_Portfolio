@@ -31,9 +31,7 @@
 
   [Link to main.py](./q1/Sa-1/main.py)
 
-<p><br></p>
-<hr style="border: none; height: 12px; background-color: #555555; border-radius: 6px;">
-<p><br></p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## QUARTER 2
 
