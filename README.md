@@ -32,6 +32,7 @@
   [Link to main.py](./q1/Sa-1/main.py)
 
 <hr style="height: 7px; background-color: #333333; border: none;">
+
 ## QUARTER 2
 
 * LUCERO_Encapsulation
