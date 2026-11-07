@@ -36,3 +36,7 @@ QUARTER 2
 * LUCERO_Encapsulation
 
   [Link to LUCERO_Encapsulation](./q2/LUCERO_Encapsulation)
+
+* LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1
+
+  [Link to LUCERO_Formative Assessment No. 2 and Learning Resource 1 – Activity 1](./q2/LUCERO_Formative%20Assessment%20No.%202%20and%20Learning%20Resource%201%20–%20Activity%201/)
